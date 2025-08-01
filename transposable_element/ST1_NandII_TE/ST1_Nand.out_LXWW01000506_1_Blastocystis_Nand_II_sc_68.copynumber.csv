@@ -1,0 +1,24 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/Helitron	ET_30	396	1	0	NA	0	0.00
+DNA/Helitron	ET_36	168	1	0	NA	0	0.00
+###DNA/Helitron	All_elements	NA	2	0	NA	0	0.0000
+
+DNA/Helitron_1	ET_42	600	1	0	NA	0	0.00
+###DNA/Helitron_1	All_elements	NA	1	0	NA	0	0.0000
+
+######Type:DNA	All_elements	NA	3	0	NA	0	0.0000
+
+######Type:LINE	All_elements	NA			NA		0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+######Type:LTR	All_elements	NA			0		0.0000
+
+######Type:Unknown	All_elements	NA			NA		0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	3	0	NA	0	0.0000
+
+######Type:Low_complexity	All_elements	NA	NA	2	NA	151	0.3405
+
+######Type:Simple_repeat	All_elements	NA	NA	11	NA	547	1.2334
+

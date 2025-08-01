@@ -1,0 +1,26 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/Tc1	ET_17	318	1	0	NA	0	0.00
+###DNA/Tc1	All_elements	NA	1	0	NA	0	0.0000
+
+######Type:DNA	All_elements	NA	1	0	NA	0	0.0000
+
+LINE/L1	ET_4	2098	1	0	NA	0	0.00
+###LINE/L1	All_elements	NA	1	0	NA	0	0.0000
+
+######Type:LINE	All_elements	NA	1	0	NA	0	0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+######Type:LTR	All_elements	NA			0		0.0000
+
+Unknown	ET_52	291	1	0	NA	0	0.00
+###Unknown	All_elements	NA	1	0	NA	0	0.0000
+
+######Type:Unknown	All_elements	NA	1	0	NA	0	0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	3	0	NA	0	0.0000
+
+######Type:Low_complexity	All_elements	NA	NA	4	NA	245	0.2549
+
+######Type:Simple_repeat	All_elements	NA	NA	22	NA	1056	1.0985
+
