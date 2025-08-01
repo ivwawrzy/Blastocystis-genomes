@@ -1,0 +1,18 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+######Type:DNA	All_elements	NA			NA		0.0000
+
+######Type:LINE	All_elements	NA			NA		0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+LTR/Gypsy	ET_23	No_ref_available	3	1	0	195	0.27
+###LTR/Gypsy	All_elements	NA	3	1	0	195	0.2740
+
+######Type:LTR	All_elements	NA	3	1	0	195	0.2740
+
+######Type:Unknown	All_elements	NA			NA		0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	3	1	NA	195	0.2740
+
+######Type:Simple_repeat	All_elements	NA	NA	13	NA	709	0.9962
+
