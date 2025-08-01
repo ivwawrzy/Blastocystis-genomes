@@ -1,0 +1,7 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###2658	17.5	4.5	0.0	LXWW01000078_1_Blastocystis_Nand_II_sc_172	3732	4258	551	+	ET_4	LINE/L1	1548	2098	(0)	1226	1	0.263
+
+###4769	2.5	0.0	0.0	LXWW01000078_1_Blastocystis_Nand_II_sc_172	23982	24581	600	+	ET_2	LINE/R1	1690	2289	(3)	1229	1	0.262
+
+###2066	2.6	0.0	0.0	LXWW01000078_1_Blastocystis_Nand_II_sc_172	29267	29533	267	+	ET_2	LINE/R1	2026	2292	(0)	1230	1	0.116
