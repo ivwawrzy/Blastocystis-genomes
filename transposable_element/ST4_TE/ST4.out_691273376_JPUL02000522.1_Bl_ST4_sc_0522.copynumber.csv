@@ -1,0 +1,18 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/Crypton	ET_27	913	1	1	NA	913	21.60
+###DNA/Crypton	All_elements	NA	1	1	NA	913	21.6044
+
+######Type:DNA	All_elements	NA	1	1	NA	913	21.6044
+
+######Type:LINE	All_elements	NA			NA		0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+######Type:LTR	All_elements	NA			0		0.0000
+
+######Type:Unknown	All_elements	NA			NA		0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	1	1	NA	913	21.6044
+
+######Type:Simple_repeat	All_elements	NA	NA	1	NA	43	1.0175
+

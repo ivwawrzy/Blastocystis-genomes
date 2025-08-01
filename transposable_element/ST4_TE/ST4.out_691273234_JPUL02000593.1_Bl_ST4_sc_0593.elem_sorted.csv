@@ -1,0 +1,5 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###1283	18.3	3.1	0.4	691273234_JPUL02000593.1_Bl_ST4_sc_0593	274	531	265	+	ET_27	DNA/Crypton	619	883	(30)	393	1	0.290
+
+###3491	19.5	0.6	0.4	691273234_JPUL02000593.1_Bl_ST4_sc_0593	983	1666	685	+	ET_27	DNA/Crypton	228	912	(1)	394	1	0.750
