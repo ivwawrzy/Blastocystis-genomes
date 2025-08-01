@@ -1,0 +1,15 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###1363	9.9	0.0	0.0	LXWW01000210_1_Blastocystis_Nand_II_sc_31	109438	109638	201	C	ET_22	DNA/Transposase	(0)	318	118	2310	1	0.632
+
+###1570	11.9	0.0	2.2	LXWW01000210_1_Blastocystis_Nand_II_sc_31	109861	110134	268	C	ET_22	DNA/Transposase	(0)	318	51	2312	1	0.843
+
+###1280	18.4	0.9	9.2	LXWW01000210_1_Blastocystis_Nand_II_sc_31	110428	110756	304	C	ET_22	DNA/Transposase	(0)	318	15	2315	1	0.956
+
+###738	0.8	0.0	0.0	LXWW01000210_1_Blastocystis_Nand_II_sc_31	62742	62861	120	C	ET_21	LINE/R1	(0)	120	1	2293	1	1.000
+
+###545	6.1	8.4	8.4	LXWW01000210_1_Blastocystis_Nand_II_sc_31	109561	109667	107	C	ET_51	Unknown	(0)	327	221	2311	1	0.327
+
+###775	12.4	23.5	1.7	LXWW01000210_1_Blastocystis_Nand_II_sc_31	109984	110179	238	C	ET_51	Unknown	(0)	327	90	2313	1	0.728
+
+###273	19.6	1.0	17.6	LXWW01000210_1_Blastocystis_Nand_II_sc_31	110671	110769	85	C	ET_51	Unknown	(222)	105	21	2313	1	0.260

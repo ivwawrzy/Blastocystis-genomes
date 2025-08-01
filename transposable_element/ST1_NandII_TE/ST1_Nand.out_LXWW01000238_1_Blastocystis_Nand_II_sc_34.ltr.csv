@@ -1,0 +1,7 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###572	14.4	0.0	0.0	LXWW01000238_1_Blastocystis_Nand_II_sc_34	181194	181283	90	+	ET_34	LTR/Gypsy	5900	5989	(1544)	2541	1	No_ref_available
+
+###762	10.3	0.8	0.8	LXWW01000238_1_Blastocystis_Nand_II_sc_34	199075	199191	117	C	ET_34	LTR/Gypsy	(1523)	6010	5894	2544	1	No_ref_available
+
+###742	7.8	0.0	1.0	LXWW01000238_1_Blastocystis_Nand_II_sc_34	199349	199452	103	+	ET_34	LTR/Gypsy	5894	5996	(1537)	2545	1	No_ref_available
