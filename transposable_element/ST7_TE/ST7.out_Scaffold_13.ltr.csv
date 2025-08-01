@@ -1,0 +1,21 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###25728/14066	6.871	1.019	1.681	Scaffold_13	339	6753	5428	C	ET_32	LTR/Gypsy	(0)	6234	4	2933/2935	2	No_ref_available
+25728	8.8	1.2	1.5	Scaffold_13	339	4273	3755	C	ET_32	LTR/Gypsy	(0)	6234	2480	2933	1
+14066	2.4	0.6	2.1	Scaffold_13	5056	6753	1673	C	ET_32	LTR/Gypsy	(4558)	1676	4	2935	1
+
+###450	15.6	0.0	4.4	Scaffold_13	6754	6846	89	+	ET_32	LTR/Gypsy	1396	1484	(4750)	2936	1	No_ref_available
+
+###1656	19.9	1.9	2.1	Scaffold_13	194790	195164	374	C	ET_34	LTR/Gypsy	(5054)	2479	2106	3030	1	No_ref_available
+
+###297	19.1	5.4	5.4	Scaffold_13	252263	252373	111	C	ET_34	LTR/Gypsy	(1525)	6008	5898	3061	1	No_ref_available
+
+###404	18.4	0.0	4.1	Scaffold_13	368834	368935	98	C	ET_34	LTR/Gypsy	(5330)	2203	2106	3112	1	No_ref_available
+
+###1775	17.9	0.0	1.1	Scaffold_13	369414	369780	363	C	ET_34	LTR/Gypsy	(5044)	2489	2127	3114	1	No_ref_available
+
+###5005/21261	11.704	1.755	1.093	Scaffold_13	6840	13011	4976	C	ET_35	LTR/Gypsy	(5546)	6260	90	2937/2937	2	No_ref_available
+5005	2.4	0.0	3.2	Scaffold_13	6840	7442	584	C	ET_35	LTR/Gypsy	(5546)	6260	5677	2937	1
+21261	13.0	2.0	0.8	Scaffold_13	8684	13011	4392	C	ET_35	LTR/Gypsy	(7325)	4481	90	2937	1
+
+###4892	7.2	0.7	4.3	Scaffold_13	25221	25912	668	+	ET_35	LTR/Gypsy	5600	6267	(5539)	2948	1	No_ref_available

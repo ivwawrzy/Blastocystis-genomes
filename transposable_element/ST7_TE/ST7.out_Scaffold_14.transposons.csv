@@ -1,0 +1,7 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###1436	0.0	0.0	0.0	Scaffold_14	201749	201916	168	C	ET_36	DNA/Helitron	(0)	168	1	3274	1	1.000
+
+###2484	8.4	0.3	7.3	Scaffold_14	292444	292826	358	C	ET_31	LINE/L1	(3)	359	2	3319	1	0.989
+
+###14498	1.9	0.0	0.0	Scaffold_14	11677	13290	1614	+	ET_39	LINE/RTE	1	1614	(0)	3203	1	1.000

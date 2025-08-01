@@ -1,0 +1,47 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/CACTA	ET_3	6235	2	0	NA	0	0.00
+###DNA/CACTA	All_elements	NA	2	0	NA	0	0.0000
+
+DNA/Crypton	ET_27	913	2	0	NA	0	0.00
+###DNA/Crypton	All_elements	NA	2	0	NA	0	0.0000
+
+DNA/Ginger	ET_18	459	1	1	NA	455	0.03
+###DNA/Ginger	All_elements	NA	1	1	NA	455	0.0312
+
+DNA/Maverick	ET_33	4741	25	14	NA	19980	1.37
+###DNA/Maverick	All_elements	NA	25	14	NA	19980	1.3700
+
+DNA/Transposase	ET_22	318	1	0	NA	0	0.00
+###DNA/Transposase	All_elements	NA	1	0	NA	0	0.0000
+
+######Type:DNA	All_elements	NA	31	15	NA	20435	1.4012
+
+LINE/L1	ET_31	362	37	8	NA	2412	0.17
+###LINE/L1	All_elements	NA	37	8	NA	2412	0.1654
+
+LINE/R1	ET_2	2292	3	0	NA	0	0.00
+LINE/R1	ET_26	542	1	1	NA	539	0.04
+###LINE/R1	All_elements	NA	4	1	NA	539	0.0370
+
+######Type:LINE	All_elements	NA	41	9	NA	2951	0.2024
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+LTR/Gypsy	ET_32	No_ref_available	31	5	0	27023	1.85
+LTR/Gypsy	ET_34	No_ref_available	78	8	0	11578	0.79
+LTR/Gypsy	ET_35	No_ref_available	62	18	0	91799	6.29
+###LTR/Gypsy	All_elements	NA	171	31	0	130400	8.9416
+
+######Type:LTR	All_elements	NA	171	31	0	130400	8.9416
+
+Unknown	ET_48	339	1	0	NA	0	0.00
+###Unknown	All_elements	NA	1	0	NA	0	0.0000
+
+######Type:Unknown	All_elements	NA	1	0	NA	0	0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	244	55	NA	153786	10.5452
+
+######Type:Low_complexity	All_elements	NA	NA	58	NA	3638	0.2495
+
+######Type:Simple_repeat	All_elements	NA	NA	742	NA	32462	2.2259
+

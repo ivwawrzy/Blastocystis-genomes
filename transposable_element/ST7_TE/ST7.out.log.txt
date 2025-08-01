@@ -1,0 +1,1381 @@
+RepeatMasker File contains 43 contig(s)
+
+###############################
+Finding non LTR elements
+###############################
+
+Starting to work on contig Scaffold_0
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 6 fragments
+6 fragments were assembled into 3 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 93 fragments
+93 fragments were assembled into 69 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_53 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+6 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_0.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 69 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+13 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_1
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 9 fragments
+9 fragments were assembled into 6 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 5 fragments
+5 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 19 fragments
+19 fragments were assembled into 7 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_26 of family LINE/R1; length 542; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 25 fragments
+25 fragments were assembled into 14 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 60 fragments
+60 fragments were assembled into 44 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 51 fragments
+51 fragments were assembled into 31 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+16 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_1.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 14 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 44 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 31 such elements
+
+###############################
+0 complete LTR elements found
+34 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_10
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 9 fragments
+9 fragments were assembled into 4 copie(s)
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 10 fragments
+10 fragments were assembled into 3 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 11806; there are 8 fragments
+8 fragments were assembled into 4 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 26 fragments
+26 fragments were assembled into 21 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 24 fragments
+24 fragments were assembled into 10 copie(s)
+
+###############################
+9 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_10.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 4 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 21 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 10 such elements
+
+###############################
+0 complete LTR elements found
+9 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_11
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 4 fragments
+4 fragments were assembled into 3 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 9 fragments
+9 fragments were assembled into 2 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 11806; there are 8 fragments
+8 fragments were assembled into 3 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 44 fragments
+44 fragments were assembled into 34 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 14 fragments
+14 fragments were assembled into 8 copie(s)
+
+###############################
+8 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_11.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 3 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 34 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 8 such elements
+
+###############################
+0 complete LTR elements found
+10 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_12
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 13 fragments
+13 fragments were assembled into 4 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 15 fragments
+15 fragments were assembled into 6 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 10 fragments
+10 fragments were assembled into 6 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 36 fragments
+36 fragments were assembled into 28 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 36 fragments
+36 fragments were assembled into 15 copie(s)
+
+###############################
+10 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_12.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 6 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 28 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 15 such elements
+
+###############################
+0 complete LTR elements found
+19 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_13
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 3 fragments
+3 fragments were assembled into 2 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 4 fragments
+4 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 3 fragments
+3 fragments were assembled into 2 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 31 fragments
+31 fragments were assembled into 21 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 4 fragments
+4 fragments were assembled into 3 copie(s)
+Assembling element ET_53 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_13.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 21 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 3 such elements
+
+###############################
+0 complete LTR elements found
+8 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_14
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_30 of family DNA/Helitron; length 396; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_36 of family DNA/Helitron; length 168; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 4 fragments
+4 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 4 fragments
+4 fragments were assembled into 1 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 8 fragments
+8 fragments were assembled into 6 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 21 fragments
+21 fragments were assembled into 19 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 9 fragments
+9 fragments were assembled into 2 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_14.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 6 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 19 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+5 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_15
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 4 fragments
+4 fragments were assembled into 2 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 9 fragments
+9 fragments were assembled into 2 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 6 fragments
+6 fragments were assembled into 2 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 12 fragments
+12 fragments were assembled into 9 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 11 fragments
+11 fragments were assembled into 4 copie(s)
+
+###############################
+7 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_15.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 9 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 4 such elements
+
+###############################
+0 complete LTR elements found
+6 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_16
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 6 fragments
+6 fragments were assembled into 3 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 9 fragments
+9 fragments were assembled into 3 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 6 fragments
+6 fragments were assembled into 5 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 22 fragments
+22 fragments were assembled into 19 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 9 fragments
+9 fragments were assembled into 4 copie(s)
+
+###############################
+6 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_16.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 5 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 19 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 4 such elements
+
+###############################
+0 complete LTR elements found
+4 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_17
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 7 fragments
+7 fragments were assembled into 3 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 18 fragments
+18 fragments were assembled into 4 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 21 fragments
+21 fragments were assembled into 11 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 15 fragments
+15 fragments were assembled into 11 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 38 fragments
+38 fragments were assembled into 19 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+9 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_17.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 11 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 11 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 19 such elements
+
+###############################
+0 complete LTR elements found
+15 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_18
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 6 fragments
+6 fragments were assembled into 4 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 12 fragments
+12 fragments were assembled into 6 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 12 fragments
+12 fragments were assembled into 7 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 18 fragments
+18 fragments were assembled into 12 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 21 fragments
+21 fragments were assembled into 8 copie(s)
+
+###############################
+12 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_18.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 7 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 12 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 8 such elements
+
+###############################
+0 complete LTR elements found
+10 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_19
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 6 fragments
+6 fragments were assembled into 4 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 13 fragments
+13 fragments were assembled into 4 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 7 fragments
+7 fragments were assembled into 5 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 11 fragments
+11 fragments were assembled into 7 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 27 fragments
+27 fragments were assembled into 9 copie(s)
+
+###############################
+8 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_19.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 5 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 7 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 9 such elements
+
+###############################
+0 complete LTR elements found
+10 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_2
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 25 fragments
+25 fragments were assembled into 14 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 37 fragments
+37 fragments were assembled into 8 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 31 fragments
+31 fragments were assembled into 16 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 78 fragments
+78 fragments were assembled into 57 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 62 fragments
+62 fragments were assembled into 26 copie(s)
+Assembling element ET_48 of family Unknown; length 339; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+24 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_2.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 16 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 57 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 26 such elements
+
+###############################
+0 complete LTR elements found
+31 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_20
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 8 fragments
+8 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 6 fragments
+6 fragments were assembled into 3 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 20 fragments
+20 fragments were assembled into 14 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 8 fragments
+8 fragments were assembled into 3 copie(s)
+
+###############################
+4 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_20.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 3 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 14 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 3 such elements
+
+###############################
+0 complete LTR elements found
+5 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_21
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 5 fragments
+5 fragments were assembled into 2 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 6 fragments
+6 fragments were assembled into 2 copie(s)
+Assembling element ET_6 of family LINE/L1; length 126; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 6 fragments
+6 fragments were assembled into 3 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 15 fragments
+15 fragments were assembled into 9 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 8 fragments
+8 fragments were assembled into 3 copie(s)
+Assembling element ET_37 of family LTR/Gypsy; length 198; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_38 of family LTR/Gypsy; length 264; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+7 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_21.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 3 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 9 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 3 such elements
+Building LTR-ET with internal part ET_37 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_38 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+6 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_22
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 4 fragments
+4 fragments were assembled into 4 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 5 fragments
+5 fragments were assembled into 2 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_22.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 4 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_23
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 5 fragments
+5 fragments were assembled into 2 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 7 fragments
+7 fragments were assembled into 0 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 17 fragments
+17 fragments were assembled into 13 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 7 fragments
+7 fragments were assembled into 4 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_23.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 13 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 4 such elements
+
+###############################
+0 complete LTR elements found
+6 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_24
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 4 fragments
+4 fragments were assembled into 2 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 11 fragments
+11 fragments were assembled into 9 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_24.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 9 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_25
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 4 fragments
+4 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 13 fragments
+13 fragments were assembled into 10 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 13 fragments
+13 fragments were assembled into 7 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_25.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 10 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 7 such elements
+
+###############################
+0 complete LTR elements found
+7 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_26
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 7 fragments
+7 fragments were assembled into 5 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_26.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 5 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_27
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 5 fragments
+5 fragments were assembled into 2 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 4 fragments
+4 fragments were assembled into 3 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 9 fragments
+9 fragments were assembled into 5 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_27.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 3 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 5 such elements
+
+###############################
+0 complete LTR elements found
+3 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_28
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 5 fragments
+5 fragments were assembled into 2 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 5 fragments
+5 fragments were assembled into 1 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_28.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_29
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 4 fragments
+4 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 4 fragments
+4 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 5 fragments
+5 fragments were assembled into 4 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 7 fragments
+7 fragments were assembled into 4 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 13 fragments
+13 fragments were assembled into 7 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_29.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 4 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 4 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 7 such elements
+
+###############################
+0 complete LTR elements found
+7 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_3
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 11 fragments
+11 fragments were assembled into 4 copie(s)
+Assembling element ET_41 of family DNA/TC1; length 135; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 15 fragments
+15 fragments were assembled into 4 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 8 fragments
+8 fragments were assembled into 6 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 57 fragments
+57 fragments were assembled into 39 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 37 fragments
+37 fragments were assembled into 15 copie(s)
+Assembling element ET_38 of family LTR/Gypsy; length 135; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+9 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_3.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 6 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 39 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 15 such elements
+Building LTR-ET with internal part ET_38 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+16 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_30
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 8 fragments
+8 fragments were assembled into 3 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_30.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 3 such elements
+
+###############################
+0 complete LTR elements found
+3 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_33
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 3 fragments
+3 fragments were assembled into 2 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 4 fragments
+4 fragments were assembled into 1 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_33.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_34
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_34.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_35
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 4 fragments
+4 fragments were assembled into 2 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 5 fragments
+5 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_35.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_37
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_37.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 3 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_39
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_39.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_4
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 12 fragments
+12 fragments were assembled into 3 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 22 fragments
+22 fragments were assembled into 7 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 25 fragments
+25 fragments were assembled into 13 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 62 fragments
+62 fragments were assembled into 49 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 51 fragments
+51 fragments were assembled into 22 copie(s)
+Assembling element ET_37 of family LTR/Gypsy; length 198; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_38 of family LTR/Gypsy; length 135; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+11 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_4.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 13 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 49 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 22 such elements
+Building LTR-ET with internal part ET_37 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_38 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+29 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_40
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_40.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_41
+Assembling element ET_31 of family LINE/L1; length 362; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_41.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_42
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 4 fragments
+4 fragments were assembled into 2 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 4 fragments
+4 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_42.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_44
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_44.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_46
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_46.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_47
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_47.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_5
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 10 fragments
+10 fragments were assembled into 5 copie(s)
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 17 fragments
+17 fragments were assembled into 4 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 14 fragments
+14 fragments were assembled into 7 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 37 fragments
+37 fragments were assembled into 32 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 39 fragments
+39 fragments were assembled into 20 copie(s)
+
+###############################
+13 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_5.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 7 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 32 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 20 such elements
+
+###############################
+0 complete LTR elements found
+19 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_52
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 4 fragments
+4 fragments were assembled into 2 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_52.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_6
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 5 fragments
+5 fragments were assembled into 2 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 7 fragments
+7 fragments were assembled into 1 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 47 fragments
+47 fragments were assembled into 31 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 11 fragments
+11 fragments were assembled into 5 copie(s)
+
+###############################
+5 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_6.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 31 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 5 such elements
+
+###############################
+0 complete LTR elements found
+10 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_7
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 4 fragments
+4 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 5 fragments
+5 fragments were assembled into 4 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 5 fragments
+5 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 10 fragments
+10 fragments were assembled into 2 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 5 fragments
+5 fragments were assembled into 4 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 30 fragments
+30 fragments were assembled into 21 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 19 fragments
+19 fragments were assembled into 9 copie(s)
+Assembling element ET_48 of family Unknown; length 339; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+7 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_7.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 4 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 21 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 9 such elements
+
+###############################
+0 complete LTR elements found
+11 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_8
+Assembling element ET_30 of family DNA/Helitron; length 396; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_36 of family DNA/Helitron; length 168; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_42 of family DNA/Helitron_1; length 600; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 6 fragments
+6 fragments were assembled into 3 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 10 fragments
+10 fragments were assembled into 2 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 6 fragments
+6 fragments were assembled into 5 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 36 fragments
+36 fragments were assembled into 26 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 22 fragments
+22 fragments were assembled into 8 copie(s)
+
+###############################
+7 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_8.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 2 such elements
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 5 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 26 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 8 such elements
+
+###############################
+0 complete LTR elements found
+8 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig Scaffold_9
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_31 of family LINE/L1; length 362; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 4 fragments
+4 fragments were assembled into 3 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 25 fragments
+25 fragments were assembled into 23 copie(s)
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 13 fragments
+13 fragments were assembled into 7 copie(s)
+
+###############################
+4 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST7.out_Scaffold_9.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 3 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 23 such elements
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 7 such elements
+
+###############################
+0 complete LTR elements found
+7 partial LTR elements found
+0 solo LTR elements found
+###############################
