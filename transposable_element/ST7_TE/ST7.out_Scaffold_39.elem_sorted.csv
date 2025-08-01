@@ -1,0 +1,8 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###2750/3218/6366	8.822	0.164	1.736	Scaffold_39	52	2984	1626	+	ET_35	LTR/Gypsy	10109	11806	(0)	7784/7786/7786	3	No_ref_available
+2750	8.5	0.5	2.1	Scaffold_39	52	436	379	+	ET_35	LTR/Gypsy	10109	10487	(1319)	7784	1
+3218	11.0	0.0	1.6	Scaffold_39	1674	2127	447	+	ET_35	LTR/Gypsy	10560	11006	(800)	7786	1
+6366	6.2	0.0	1.5	Scaffold_39	2169	2984	804	+	ET_35	LTR/Gypsy	11003	11806	(0)	7786	1
+
+###2558	7.6	0.8	4.7	Scaffold_39	9800	10174	361	+	ET_31	LINE/L1	2	362	(0)	7789	1	0.997

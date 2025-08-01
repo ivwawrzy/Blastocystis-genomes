@@ -1,0 +1,9 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###594	12.6	0.0	0.0	Scaffold_20	217836	217922	87	+	ET_3	DNA/CACTA	4513	4599	(1636)	5836	1	0.014
+
+###7015	10.4	1.1	4.4	Scaffold_20	262650	263794	1109	C	ET_33	DNA/Maverick	(1784)	2957	1849	5877	1	0.234
+
+###2432	9.2	0.5	4.4	Scaffold_20	42052	42426	361	C	ET_31	LINE/L1	(0)	362	2	5748	1	0.997
+
+###260	17.0	7.8	7.8	Scaffold_20	48981	49082	102	+	ET_31	LINE/L1	239	340	(22)	5749	1	0.282

@@ -1,0 +1,11 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###2433	7.8	0.3	7.2	Scaffold_24	2015	2400	361	+	ET_31	LINE/L1	2	362	(0)	6335	1	0.997
+
+###942	18.2	0.0	0.0	Scaffold_24	42547	42727	181	C	ET_34	LTR/Gypsy	(5044)	2489	2309	6370	1	No_ref_available
+
+###3983	8.3	2.1	7.2	Scaffold_24	195832	196454	593	C	ET_33	DNA/Maverick	(2300)	2441	1849	6427	1	0.125
+
+###500	18.2	0.0	0.0	Scaffold_24	206291	206378	88	+	ET_35	LTR/Gypsy	1	88	(11718)	6458	1	No_ref_available
+
+###1246	16.4	0.0	2.7	Scaffold_24	206365	206589	219	C	ET_31	LINE/L1	(142)	220	2	6459	1	0.605

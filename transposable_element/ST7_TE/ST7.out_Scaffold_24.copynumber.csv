@@ -1,0 +1,27 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/Maverick	ET_33	4741	1	1	NA	593	0.27
+###DNA/Maverick	All_elements	NA	1	1	NA	593	0.2659
+
+######Type:DNA	All_elements	NA	1	1	NA	593	0.2659
+
+LINE/L1	ET_31	362	4	2	NA	580	0.26
+###LINE/L1	All_elements	NA	4	2	NA	580	0.2601
+
+######Type:LINE	All_elements	NA	4	2	NA	580	0.2601
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+LTR/Gypsy	ET_34	No_ref_available	11	1	0	181	0.08
+LTR/Gypsy	ET_35	No_ref_available	1	1	0	88	0.04
+###LTR/Gypsy	All_elements	NA	12	2	0	269	0.1206
+
+######Type:LTR	All_elements	NA	12	2	0	269	0.1206
+
+######Type:Unknown	All_elements	NA			NA		0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	17	5	NA	1442	0.6467
+
+######Type:Low_complexity	All_elements	NA	NA	15	NA	793	0.3556
+
+######Type:Simple_repeat	All_elements	NA	NA	116	NA	5283	2.3692
+
