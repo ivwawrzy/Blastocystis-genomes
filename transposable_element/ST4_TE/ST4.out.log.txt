@@ -1,0 +1,2786 @@
+RepeatMasker File contains 142 contig(s)
+
+###############################
+Finding non LTR elements
+###############################
+
+Starting to work on contig 691271985_JPUL02001216.1_Bl_ST4_sc_1216
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691271985_JPUL02001216.1_Bl_ST4_sc_1216.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272021_JPUL02001198.1_Bl_ST4_sc_1198
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272021_JPUL02001198.1_Bl_ST4_sc_1198.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272023_JPUL02001197.1_Bl_ST4_sc_1197
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272023_JPUL02001197.1_Bl_ST4_sc_1197.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272079_JPUL02001169.1_Bl_ST4_sc_1169
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272079_JPUL02001169.1_Bl_ST4_sc_1169.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272133_JPUL02001142.1_Bl_ST4_sc_1142
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272133_JPUL02001142.1_Bl_ST4_sc_1142.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272159_JPUL02001129.1_Bl_ST4_sc_1129
+Assembling element ET_0 of family DNA/Transposase; length 1313; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272159_JPUL02001129.1_Bl_ST4_sc_1129.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272209_JPUL02001104.1_Bl_ST4_sc_1104
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272209_JPUL02001104.1_Bl_ST4_sc_1104.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272305_JPUL02001056.1_Bl_ST4_sc_1056
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272305_JPUL02001056.1_Bl_ST4_sc_1056.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272385_JPUL02001016.1_Bl_ST4_sc_1016
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272385_JPUL02001016.1_Bl_ST4_sc_1016.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272425_JPUL02000996.1_Bl_ST4_sc_0996
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272425_JPUL02000996.1_Bl_ST4_sc_0996.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272534_JPUL02000942.1_Bl_ST4_sc_0942
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272534_JPUL02000942.1_Bl_ST4_sc_0942.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272644_JPUL02000887.1_Bl_ST4_sc_0887
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272644_JPUL02000887.1_Bl_ST4_sc_0887.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272658_JPUL02000880.1_Bl_ST4_sc_0880
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272658_JPUL02000880.1_Bl_ST4_sc_0880.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272684_JPUL02000867.1_Bl_ST4_sc_0867
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272684_JPUL02000867.1_Bl_ST4_sc_0867.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272696_JPUL02000861.1_Bl_ST4_sc_0861
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272696_JPUL02000861.1_Bl_ST4_sc_0861.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272720_JPUL02000849.1_Bl_ST4_sc_0849
+Assembling element ET_28 of family DNA/Helitron; length 168; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_30 of family DNA/Helitron; length 396; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272720_JPUL02000849.1_Bl_ST4_sc_0849.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272790_JPUL02000814.1_Bl_ST4_sc_0814
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272790_JPUL02000814.1_Bl_ST4_sc_0814.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272821_JPUL02000799.1_Bl_ST4_sc_0799
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272821_JPUL02000799.1_Bl_ST4_sc_0799.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272847_JPUL02000786.1_Bl_ST4_sc_0786
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272847_JPUL02000786.1_Bl_ST4_sc_0786.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272865_JPUL02000777.1_Bl_ST4_sc_0777
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272865_JPUL02000777.1_Bl_ST4_sc_0777.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272879_JPUL02000770.1_Bl_ST4_sc_0770
+Assembling element ET_47 of family Unknown; length 279; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_49 of family Unknown; length 279; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272879_JPUL02000770.1_Bl_ST4_sc_0770.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272943_JPUL02000738.1_Bl_ST4_sc_0738
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272943_JPUL02000738.1_Bl_ST4_sc_0738.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272949_JPUL02000735.1_Bl_ST4_sc_0735
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272949_JPUL02000735.1_Bl_ST4_sc_0735.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272953_JPUL02000733.1_Bl_ST4_sc_0733
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272953_JPUL02000733.1_Bl_ST4_sc_0733.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691272981_JPUL02000719.1_Bl_ST4_sc_0719
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691272981_JPUL02000719.1_Bl_ST4_sc_0719.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273019_JPUL02000700.1_Bl_ST4_sc_0700
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273019_JPUL02000700.1_Bl_ST4_sc_0700.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273051_JPUL02000684.1_Bl_ST4_sc_0684
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273051_JPUL02000684.1_Bl_ST4_sc_0684.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273071_JPUL02000674.1_Bl_ST4_sc_0674
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273071_JPUL02000674.1_Bl_ST4_sc_0674.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273085_JPUL02000667.1_Bl_ST4_sc_0667
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273085_JPUL02000667.1_Bl_ST4_sc_0667.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273087_JPUL02000666.1_Bl_ST4_sc_0666
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273087_JPUL02000666.1_Bl_ST4_sc_0666.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273115_JPUL02000652.1_Bl_ST4_sc_0652
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273115_JPUL02000652.1_Bl_ST4_sc_0652.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273146_JPUL02000637.1_Bl_ST4_sc_0637
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273146_JPUL02000637.1_Bl_ST4_sc_0637.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273150_JPUL02000635.1_Bl_ST4_sc_0635
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273150_JPUL02000635.1_Bl_ST4_sc_0635.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273154_JPUL02000633.1_Bl_ST4_sc_0633
+Assembling element ET_28 of family DNA/Helitron; length 135; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273154_JPUL02000633.1_Bl_ST4_sc_0633.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273220_JPUL02000600.1_Bl_ST4_sc_0600
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273220_JPUL02000600.1_Bl_ST4_sc_0600.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273234_JPUL02000593.1_Bl_ST4_sc_0593
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 4 fragments
+4 fragments were assembled into 2 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273234_JPUL02000593.1_Bl_ST4_sc_0593.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273238_JPUL02000591.1_Bl_ST4_sc_0591
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273238_JPUL02000591.1_Bl_ST4_sc_0591.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273248_JPUL02000586.1_Bl_ST4_sc_0586
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273248_JPUL02000586.1_Bl_ST4_sc_0586.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273256_JPUL02000582.1_Bl_ST4_sc_0582
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273256_JPUL02000582.1_Bl_ST4_sc_0582.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273260_JPUL02000580.1_Bl_ST4_sc_0580
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273260_JPUL02000580.1_Bl_ST4_sc_0580.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273304_JPUL02000558.1_Bl_ST4_sc_0558
+Assembling element ET_6 of family LINE/L1; length 126; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_29 of family LTR/Gypsy; length 264; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273304_JPUL02000558.1_Bl_ST4_sc_0558.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_29 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273320_JPUL02000550.1_Bl_ST4_sc_0550
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273320_JPUL02000550.1_Bl_ST4_sc_0550.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273324_JPUL02000548.1_Bl_ST4_sc_0548
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273324_JPUL02000548.1_Bl_ST4_sc_0548.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273326_JPUL02000547.1_Bl_ST4_sc_0547
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273326_JPUL02000547.1_Bl_ST4_sc_0547.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273342_JPUL02000539.1_Bl_ST4_sc_0539
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273342_JPUL02000539.1_Bl_ST4_sc_0539.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273348_JPUL02000536.1_Bl_ST4_sc_0536
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273348_JPUL02000536.1_Bl_ST4_sc_0536.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273356_JPUL02000532.1_Bl_ST4_sc_0532
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273356_JPUL02000532.1_Bl_ST4_sc_0532.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273376_JPUL02000522.1_Bl_ST4_sc_0522
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273376_JPUL02000522.1_Bl_ST4_sc_0522.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273390_JPUL02000515.1_Bl_ST4_sc_0515
+Assembling element ET_32 of family LTR/Gypsy; length 6234; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273390_JPUL02000515.1_Bl_ST4_sc_0515.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_32 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273416_JPUL02000502.1_Bl_ST4_sc_0502
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273416_JPUL02000502.1_Bl_ST4_sc_0502.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273424_JPUL02000498.1_Bl_ST4_sc_0498
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273424_JPUL02000498.1_Bl_ST4_sc_0498.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273430_JPUL02000495.1_Bl_ST4_sc_0495
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273430_JPUL02000495.1_Bl_ST4_sc_0495.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273432_JPUL02000494.1_Bl_ST4_sc_0494
+Assembling element ET_35 of family LTR/Gypsy; length 11806; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273432_JPUL02000494.1_Bl_ST4_sc_0494.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_35 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273440_JPUL02000490.1_Bl_ST4_sc_0490
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273440_JPUL02000490.1_Bl_ST4_sc_0490.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273448_JPUL02000486.1_Bl_ST4_sc_0486
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273448_JPUL02000486.1_Bl_ST4_sc_0486.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273462_JPUL02000479.1_Bl_ST4_sc_0479
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273462_JPUL02000479.1_Bl_ST4_sc_0479.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273508_JPUL02000456.1_Bl_ST4_sc_0456
+Assembling element ET_31 of family LINE/L1; length 362; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273508_JPUL02000456.1_Bl_ST4_sc_0456.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273520_JPUL02000450.1_Bl_ST4_sc_0450
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273520_JPUL02000450.1_Bl_ST4_sc_0450.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273532_JPUL02000444.1_Bl_ST4_sc_0444
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273532_JPUL02000444.1_Bl_ST4_sc_0444.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273546_JPUL02000437.1_Bl_ST4_sc_0437
+Assembling element ET_49 of family Unknown; length 429; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273546_JPUL02000437.1_Bl_ST4_sc_0437.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273548_JPUL02000436.1_Bl_ST4_sc_0436
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273548_JPUL02000436.1_Bl_ST4_sc_0436.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273575_JPUL02000423.1_Bl_ST4_sc_0423
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273575_JPUL02000423.1_Bl_ST4_sc_0423.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273579_JPUL02000421.1_Bl_ST4_sc_0421
+Assembling element ET_53 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273579_JPUL02000421.1_Bl_ST4_sc_0421.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273581_JPUL02000420.1_Bl_ST4_sc_0420
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273581_JPUL02000420.1_Bl_ST4_sc_0420.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273595_JPUL02000413.1_Bl_ST4_sc_0413
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273595_JPUL02000413.1_Bl_ST4_sc_0413.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273603_JPUL02000409.1_Bl_ST4_sc_0409
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273603_JPUL02000409.1_Bl_ST4_sc_0409.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273607_JPUL02000407.1_Bl_ST4_sc_0407
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273607_JPUL02000407.1_Bl_ST4_sc_0407.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273611_JPUL02000405.1_Bl_ST4_sc_0405
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273611_JPUL02000405.1_Bl_ST4_sc_0405.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273615_JPUL02000403.1_Bl_ST4_sc_0403
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273615_JPUL02000403.1_Bl_ST4_sc_0403.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273621_JPUL02000400.1_Bl_ST4_sc_0400
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273621_JPUL02000400.1_Bl_ST4_sc_0400.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273625_JPUL02000398.1_Bl_ST4_sc_0398
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273625_JPUL02000398.1_Bl_ST4_sc_0398.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273627_JPUL02000397.1_Bl_ST4_sc_0397
+Assembling element ET_53 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273627_JPUL02000397.1_Bl_ST4_sc_0397.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273633_JPUL02000394.1_Bl_ST4_sc_0394
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273633_JPUL02000394.1_Bl_ST4_sc_0394.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273677_JPUL02000372.1_Bl_ST4_sc_0372
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273677_JPUL02000372.1_Bl_ST4_sc_0372.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273685_JPUL02000368.1_Bl_ST4_sc_0368
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273685_JPUL02000368.1_Bl_ST4_sc_0368.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273689_JPUL02000366.1_Bl_ST4_sc_0366
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273689_JPUL02000366.1_Bl_ST4_sc_0366.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273707_JPUL02000357.1_Bl_ST4_sc_0357
+Assembling element ET_53 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273707_JPUL02000357.1_Bl_ST4_sc_0357.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273727_JPUL02000347.1_Bl_ST4_sc_0347
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273727_JPUL02000347.1_Bl_ST4_sc_0347.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273739_JPUL02000341.1_Bl_ST4_sc_0341
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273739_JPUL02000341.1_Bl_ST4_sc_0341.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273751_JPUL02000335.1_Bl_ST4_sc_0335
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273751_JPUL02000335.1_Bl_ST4_sc_0335.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273765_JPUL02000328.1_Bl_ST4_sc_0328
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273765_JPUL02000328.1_Bl_ST4_sc_0328.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273785_JPUL02000318.1_Bl_ST4_sc_0318
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273785_JPUL02000318.1_Bl_ST4_sc_0318.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273805_JPUL02000308.1_Bl_ST4_sc_0308
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273805_JPUL02000308.1_Bl_ST4_sc_0308.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273825_JPUL02000298.1_Bl_ST4_sc_0298
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273825_JPUL02000298.1_Bl_ST4_sc_0298.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273833_JPUL02000294.1_Bl_ST4_sc_0294
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273833_JPUL02000294.1_Bl_ST4_sc_0294.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273837_JPUL02000292.1_Bl_ST4_sc_0292
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273837_JPUL02000292.1_Bl_ST4_sc_0292.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273839_JPUL02000291.1_Bl_ST4_sc_0291
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273839_JPUL02000291.1_Bl_ST4_sc_0291.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273847_JPUL02000287.1_Bl_ST4_sc_0287
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273847_JPUL02000287.1_Bl_ST4_sc_0287.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273851_JPUL02000285.1_Bl_ST4_sc_0285
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273851_JPUL02000285.1_Bl_ST4_sc_0285.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273863_JPUL02000279.1_Bl_ST4_sc_0279
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 3 fragments
+3 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273863_JPUL02000279.1_Bl_ST4_sc_0279.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273867_JPUL02000277.1_Bl_ST4_sc_0277
+Assembling element ET_15 of family LINE/R2; length 444; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273867_JPUL02000277.1_Bl_ST4_sc_0277.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273871_JPUL02000275.1_Bl_ST4_sc_0275
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273871_JPUL02000275.1_Bl_ST4_sc_0275.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273875_JPUL02000273.1_Bl_ST4_sc_0273
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273875_JPUL02000273.1_Bl_ST4_sc_0273.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273893_JPUL02000264.1_Bl_ST4_sc_0264
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273893_JPUL02000264.1_Bl_ST4_sc_0264.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273903_JPUL02000259.1_Bl_ST4_sc_0259
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273903_JPUL02000259.1_Bl_ST4_sc_0259.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273913_JPUL02000254.1_Bl_ST4_sc_0254
+Assembling element ET_27 of family DNA/Crypton; length 913; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273913_JPUL02000254.1_Bl_ST4_sc_0254.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273935_JPUL02000243.1_Bl_ST4_sc_0243
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273935_JPUL02000243.1_Bl_ST4_sc_0243.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273939_JPUL02000241.1_Bl_ST4_sc_0241
+Assembling element ET_30 of family DNA/Helitron; length 396; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_42 of family DNA/Helitron_1; length 600; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273939_JPUL02000241.1_Bl_ST4_sc_0241.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273962_JPUL02000230.1_Bl_ST4_sc_0230
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273962_JPUL02000230.1_Bl_ST4_sc_0230.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273980_JPUL02000221.1_Bl_ST4_sc_0221
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273980_JPUL02000221.1_Bl_ST4_sc_0221.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691273982_JPUL02000220.1_Bl_ST4_sc_0220
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691273982_JPUL02000220.1_Bl_ST4_sc_0220.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274004_JPUL02000209.1_Bl_ST4_sc_0209
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274004_JPUL02000209.1_Bl_ST4_sc_0209.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274006_JPUL02000208.1_Bl_ST4_sc_0208
+Assembling element ET_7 of family LTR/Gypsy; length 114; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274006_JPUL02000208.1_Bl_ST4_sc_0208.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_7 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274038_JPUL02000192.1_Bl_ST4_sc_0192
+Assembling element ET_51 of family Unknown; length 327; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274038_JPUL02000192.1_Bl_ST4_sc_0192.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274048_JPUL02000187.1_Bl_ST4_sc_0187
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274048_JPUL02000187.1_Bl_ST4_sc_0187.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274050_JPUL02000186.1_Bl_ST4_sc_0186
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274050_JPUL02000186.1_Bl_ST4_sc_0186.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274062_JPUL02000180.1_Bl_ST4_sc_0180
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274062_JPUL02000180.1_Bl_ST4_sc_0180.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274076_JPUL02000173.1_Bl_ST4_sc_0173
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274076_JPUL02000173.1_Bl_ST4_sc_0173.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274088_JPUL02000167.1_Bl_ST4_sc_0167
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274088_JPUL02000167.1_Bl_ST4_sc_0167.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274102_JPUL02000160.1_Bl_ST4_sc_0160
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274102_JPUL02000160.1_Bl_ST4_sc_0160.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274106_JPUL02000158.1_Bl_ST4_sc_0158
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274106_JPUL02000158.1_Bl_ST4_sc_0158.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274118_JPUL02000152.1_Bl_ST4_sc_0152
+Assembling element ET_48 of family Unknown; length 339; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274118_JPUL02000152.1_Bl_ST4_sc_0152.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274176_JPUL02000123.1_Bl_ST4_sc_0123
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274176_JPUL02000123.1_Bl_ST4_sc_0123.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274192_JPUL02000115.1_Bl_ST4_sc_0115
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274192_JPUL02000115.1_Bl_ST4_sc_0115.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274208_JPUL02000107.1_Bl_ST4_sc_0107
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274208_JPUL02000107.1_Bl_ST4_sc_0107.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274212_JPUL02000105.1_Bl_ST4_sc_0105
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274212_JPUL02000105.1_Bl_ST4_sc_0105.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274222_JPUL02000100.1_Bl_ST4_sc_0100
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274222_JPUL02000100.1_Bl_ST4_sc_0100.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274256_JPUL02000083.1_Bl_ST4_sc_0083
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274256_JPUL02000083.1_Bl_ST4_sc_0083.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274264_JPUL02000079.1_Bl_ST4_sc_0079
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274264_JPUL02000079.1_Bl_ST4_sc_0079.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274280_JPUL02000071.1_Bl_ST4_sc_0071
+Assembling element ET_33 of family DNA/Maverick; length 4741; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274280_JPUL02000071.1_Bl_ST4_sc_0071.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274286_JPUL02000068.1_Bl_ST4_sc_0068
+Assembling element ET_48 of family Unknown; length 339; there are 4 fragments
+4 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274286_JPUL02000068.1_Bl_ST4_sc_0068.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274300_JPUL02000061.1_Bl_ST4_sc_0061
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274300_JPUL02000061.1_Bl_ST4_sc_0061.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274304_JPUL02000059.1_Bl_ST4_sc_0059
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274304_JPUL02000059.1_Bl_ST4_sc_0059.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274308_JPUL02000057.1_Bl_ST4_sc_0057
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274308_JPUL02000057.1_Bl_ST4_sc_0057.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274324_JPUL02000049.1_Bl_ST4_sc_0049
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274324_JPUL02000049.1_Bl_ST4_sc_0049.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274326_JPUL02000048.1_Bl_ST4_sc_0048
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274326_JPUL02000048.1_Bl_ST4_sc_0048.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274334_JPUL02000044.1_Bl_ST4_sc_0044
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274334_JPUL02000044.1_Bl_ST4_sc_0044.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274338_JPUL02000042.1_Bl_ST4_sc_0042
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274338_JPUL02000042.1_Bl_ST4_sc_0042.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274346_JPUL02000038.1_Bl_ST4_sc_0038
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274346_JPUL02000038.1_Bl_ST4_sc_0038.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274358_JPUL02000032.1_Bl_ST4_sc_0032
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274358_JPUL02000032.1_Bl_ST4_sc_0032.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274362_JPUL02000030.1_Bl_ST4_sc_0030
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274362_JPUL02000030.1_Bl_ST4_sc_0030.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274374_JPUL02000024.1_Bl_ST4_sc_0024
+Assembling element ET_43 of family LTR/Gypsy; length 324; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274374_JPUL02000024.1_Bl_ST4_sc_0024.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_43 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274380_JPUL02000021.1_Bl_ST4_sc_0021
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 3 fragments
+3 fragments were assembled into 2 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274380_JPUL02000021.1_Bl_ST4_sc_0021.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274392_JPUL02000015.1_Bl_ST4_sc_0015
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274392_JPUL02000015.1_Bl_ST4_sc_0015.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274396_JPUL02000013.1_Bl_ST4_sc_0013
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274396_JPUL02000013.1_Bl_ST4_sc_0013.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274398_JPUL02000012.1_Bl_ST4_sc_0012
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274398_JPUL02000012.1_Bl_ST4_sc_0012.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274400_JPUL02000011.1_Bl_ST4_sc_0011
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274400_JPUL02000011.1_Bl_ST4_sc_0011.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274408_JPUL02000007.1_Bl_ST4_sc_0007
+Assembling element ET_41 of family DNA/TC1; length 135; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_29 of family LTR/Gypsy; length 264; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274408_JPUL02000007.1_Bl_ST4_sc_0007.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_29 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274410_JPUL02000006.1_Bl_ST4_sc_0006
+Assembling element ET_28 of family DNA/Helitron; length 168; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_30 of family DNA/Helitron; length 396; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_42 of family DNA/Helitron_1; length 600; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274410_JPUL02000006.1_Bl_ST4_sc_0006.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274414_JPUL02000004.1_Bl_ST4_sc_0004
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274414_JPUL02000004.1_Bl_ST4_sc_0004.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274416_JPUL02000003.1_Bl_ST4_sc_0003
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274416_JPUL02000003.1_Bl_ST4_sc_0003.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig 691274418_JPUL02000002.1_Bl_ST4_sc_0002
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST4.out_691274418_JPUL02000002.1_Bl_ST4_sc_0002.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################

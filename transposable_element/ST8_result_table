@@ -1,0 +1,63 @@
+DNA/Crypton	ET_27	913	6	3	0	569
+###DNA/Crypton	All_elements	NA	6	3	0	569
+DNA/Transposase	ET_22	318	6	0	0	0
+DNA/Transposase	ET_0	1313	95	18	0	8926
+###DNA/Transposase	All_elements	NA	101	18	0	8926
+DNA/hAT	ET_25	425	5	5	0	2104
+###DNA/hAT	All_elements	NA	5	5	0	2104
+DNA/Ginger	ET_18	459	2	1	0	446
+###DNA/Ginger	All_elements	NA	2	1	0	446
+DNA/CACTA	ET_3	6235	18	4	0	390
+###DNA/CACTA	All_elements	NA	18	4	0	390
+DNA/TC1	ET_44	333	2	2	0	666
+DNA/TC1	ET_44	108	6	0	0	0
+DNA/TC1	ET_45	333	26	2	0	666
+DNA/TC1	ET_40	511	9	6	0	1822
+DNA/TC1	ET_41	135	1	1	0	135
+###DNA/TC1	All_elements	NA	44	11	0	3289
+DNA/Helitron_1	ET_42	600	1	1	0	600
+###DNA/Helitron_1	All_elements	NA	1	1	0	600
+Unknown	ET_49	429	1	1	0	429
+Unknown	ET_52	291	2	0	0	0
+Unknown	ET_51	327	3	0	0	0
+Unknown	ET_53	291	3	3	0	330
+###Unknown	All_elements	NA	16	4	0	759
+DNA/Helitron	ET_30	396	4	0	0	0
+DNA/Helitron	ET_28	168	1	1	0	168
+DNA/Helitron	ET_28	135	1	0	0	0
+###DNA/Helitron	All_elements	NA	6	1	0	168
+			0	0	0	0
+###	All_elements	NA				
+######Type:DNA	All_elements	NA	183	44	0	16492
+Unknown	ET_50	267	1	0	0	0
+Unknown	ET_48	339	2	0	0	0
+Unknown	ET_52	291	2	0	0	0
+###Unknown	All_elements	NA	16	4	0	759
+LINE/R1	ET_2	2292	7	0	0	0
+LINE/R1	ET_26	542	8	8	0	2413
+###LINE/R1	All_elements	NA	15	8	0	2413
+			0	0	0	0
+###	All_elements	NA				
+LINE/R2	ET_15	444	1	0	0	0
+###LINE/R2	All_elements	NA	1	0	0	0
+LINE/L1	ET_4	2098	31	0	0	0
+LINE/L1	ET_6	126	1	0	0	0
+###LINE/L1	All_elements	NA	32	0	0	0
+######Type:LINE	All_elements	NA	48	8	0	2413
+######Type:SINE	All_elements	NA	0	0	0	0
+LTR/Gypsy	ET_35	No_ref_available	1	0	0	0
+LTR/Gypsy	ET_29	No_ref_available	2	1	0	263
+LTR/Gypsy	ET_43	No_ref_available	2	1	0	324
+LTR/Gypsy	ET_23	No_ref_available	1	1	0	313
+LTR/Gypsy	ET_34	No_ref_available	28	8	0	738
+###LTR/Gypsy	All_elements	NA	34	11	0	1638
+Unknown	ET_52	291	2	0	0	0
+###Unknown	All_elements	NA	16	4	0	759
+			0	0	0	0
+###	All_elements	NA				
+######Type:LTR	All_elements	NA	34	11	0	1638
+#########Type:EVERYTHING_TE	All_elements	NA	281	67	0	21302
+######Type:Low_complexity	All_elements	NA	0	46	0	2415
+######Type:Satellite	All_elements	NA				
+######Type:Simple_repeat	All_elements	NA	0	180	0	9031
+######Type:Unknown	All_elements	NA	16	4	0	759
