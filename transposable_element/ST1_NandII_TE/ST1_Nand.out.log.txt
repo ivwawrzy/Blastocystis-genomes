@@ -1,0 +1,3399 @@
+RepeatMasker File contains 166 contig(s)
+
+###############################
+Finding non LTR elements
+###############################
+
+Starting to work on contig LXWW01000002_1_Blastocystis_Nand_II_sc_100
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000002_1_Blastocystis_Nand_II_sc_100.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000004_1_Blastocystis_Nand_II_sc_102
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000004_1_Blastocystis_Nand_II_sc_102.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000005_1_Blastocystis_Nand_II_sc_103
+Assembling element ET_24 of family DNA/TC1; length 579; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000005_1_Blastocystis_Nand_II_sc_103.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000008_1_Blastocystis_Nand_II_sc_106
+Assembling element ET_15 of family LINE/R2; length 444; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000008_1_Blastocystis_Nand_II_sc_106.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000011_1_Blastocystis_Nand_II_sc_109
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000011_1_Blastocystis_Nand_II_sc_109.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000013_1_Blastocystis_Nand_II_sc_110
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000013_1_Blastocystis_Nand_II_sc_110.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000014_1_Blastocystis_Nand_II_sc_111
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000014_1_Blastocystis_Nand_II_sc_111.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000016_1_Blastocystis_Nand_II_sc_113
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000016_1_Blastocystis_Nand_II_sc_113.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000017_1_Blastocystis_Nand_II_sc_114
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_1 of family DNA/Tc1; length 1480; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000017_1_Blastocystis_Nand_II_sc_114.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000018_1_Blastocystis_Nand_II_sc_115
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000018_1_Blastocystis_Nand_II_sc_115.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000019_1_Blastocystis_Nand_II_sc_116
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000019_1_Blastocystis_Nand_II_sc_116.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000020_1_Blastocystis_Nand_II_sc_117
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000020_1_Blastocystis_Nand_II_sc_117.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000022_1_Blastocystis_Nand_II_sc_119
+Assembling element ET_2 of family LINE/R1; length 2292; there are 3 fragments
+3 fragments were assembled into 2 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000022_1_Blastocystis_Nand_II_sc_119.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000023_1_Blastocystis_Nand_II_sc_12
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000023_1_Blastocystis_Nand_II_sc_12.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000025_1_Blastocystis_Nand_II_sc_121
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000025_1_Blastocystis_Nand_II_sc_121.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000027_1_Blastocystis_Nand_II_sc_123
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000027_1_Blastocystis_Nand_II_sc_123.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000028_1_Blastocystis_Nand_II_sc_124
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000028_1_Blastocystis_Nand_II_sc_124.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000029_1_Blastocystis_Nand_II_sc_125
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000029_1_Blastocystis_Nand_II_sc_125.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000030_1_Blastocystis_Nand_II_sc_127
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000030_1_Blastocystis_Nand_II_sc_127.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000031_1_Blastocystis_Nand_II_sc_128
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_46 of family Unknown; length 261; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+4 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000031_1_Blastocystis_Nand_II_sc_128.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000035_1_Blastocystis_Nand_II_sc_131
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000035_1_Blastocystis_Nand_II_sc_131.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000039_1_Blastocystis_Nand_II_sc_135
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000039_1_Blastocystis_Nand_II_sc_135.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000041_1_Blastocystis_Nand_II_sc_137
+Assembling element ET_19 of family LTR/Gypsy; length 132; there are 9 fragments
+9 fragments were assembled into 8 copie(s)
+Assembling element ET_49 of family Unknown; length 429; there are 5 fragments
+5 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000041_1_Blastocystis_Nand_II_sc_137.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_19 of family LTR/Gypsy -- there are 8 such elements
+
+###############################
+0 complete LTR elements found
+8 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000044_1_Blastocystis_Nand_II_sc_14
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000044_1_Blastocystis_Nand_II_sc_14.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000045_1_Blastocystis_Nand_II_sc_141
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_47 of family Unknown; length 429; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_49 of family Unknown; length 429; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000045_1_Blastocystis_Nand_II_sc_141.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000048_1_Blastocystis_Nand_II_sc_144
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000048_1_Blastocystis_Nand_II_sc_144.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000049_1_Blastocystis_Nand_II_sc_145
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000049_1_Blastocystis_Nand_II_sc_145.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000050_1_Blastocystis_Nand_II_sc_146
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_48 of family Unknown; length 339; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 5 fragments
+5 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000050_1_Blastocystis_Nand_II_sc_146.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000051_1_Blastocystis_Nand_II_sc_147
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000051_1_Blastocystis_Nand_II_sc_147.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000054_1_Blastocystis_Nand_II_sc_15
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000054_1_Blastocystis_Nand_II_sc_15.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000057_1_Blastocystis_Nand_II_sc_152
+Assembling element ET_1 of family DNA/Tc1; length 1480; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_5 of family LINE/L1; length 129; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000057_1_Blastocystis_Nand_II_sc_152.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000059_1_Blastocystis_Nand_II_sc_154
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000059_1_Blastocystis_Nand_II_sc_154.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000061_1_Blastocystis_Nand_II_sc_156
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000061_1_Blastocystis_Nand_II_sc_156.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000065_1_Blastocystis_Nand_II_sc_16
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000065_1_Blastocystis_Nand_II_sc_16.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000070_1_Blastocystis_Nand_II_sc_165
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000070_1_Blastocystis_Nand_II_sc_165.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000074_1_Blastocystis_Nand_II_sc_169
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000074_1_Blastocystis_Nand_II_sc_169.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000075_1_Blastocystis_Nand_II_sc_17
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000075_1_Blastocystis_Nand_II_sc_17.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000078_1_Blastocystis_Nand_II_sc_172
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000078_1_Blastocystis_Nand_II_sc_172.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000080_1_Blastocystis_Nand_II_sc_174
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000080_1_Blastocystis_Nand_II_sc_174.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000081_1_Blastocystis_Nand_II_sc_176
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000081_1_Blastocystis_Nand_II_sc_176.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000085_1_Blastocystis_Nand_II_sc_18
+Assembling element ET_4 of family LINE/L1; length 2098; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000085_1_Blastocystis_Nand_II_sc_18.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000087_1_Blastocystis_Nand_II_sc_181
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000087_1_Blastocystis_Nand_II_sc_181.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000089_1_Blastocystis_Nand_II_sc_183
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000089_1_Blastocystis_Nand_II_sc_183.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000091_1_Blastocystis_Nand_II_sc_185
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000091_1_Blastocystis_Nand_II_sc_185.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000092_1_Blastocystis_Nand_II_sc_186
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000092_1_Blastocystis_Nand_II_sc_186.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000094_1_Blastocystis_Nand_II_sc_188
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000094_1_Blastocystis_Nand_II_sc_188.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000097_1_Blastocystis_Nand_II_sc_190
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000097_1_Blastocystis_Nand_II_sc_190.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000099_1_Blastocystis_Nand_II_sc_192
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000099_1_Blastocystis_Nand_II_sc_192.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000100_1_Blastocystis_Nand_II_sc_193
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000100_1_Blastocystis_Nand_II_sc_193.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000101_1_Blastocystis_Nand_II_sc_194
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000101_1_Blastocystis_Nand_II_sc_194.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 3 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000106_1_Blastocystis_Nand_II_sc_2
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000106_1_Blastocystis_Nand_II_sc_2.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000111_1_Blastocystis_Nand_II_sc_203
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000111_1_Blastocystis_Nand_II_sc_203.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000113_1_Blastocystis_Nand_II_sc_205
+Assembling element ET_2 of family LINE/R1; length 2292; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000113_1_Blastocystis_Nand_II_sc_205.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000116_1_Blastocystis_Nand_II_sc_208
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_6 of family LINE/L1; length 126; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_29 of family LTR/Gypsy; length 264; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_7 of family LTR/Gypsy; length 264; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000116_1_Blastocystis_Nand_II_sc_208.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_29 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_7 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000119_1_Blastocystis_Nand_II_sc_210
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000119_1_Blastocystis_Nand_II_sc_210.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000120_1_Blastocystis_Nand_II_sc_211
+Assembling element ET_24 of family DNA/TC1; length 579; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000120_1_Blastocystis_Nand_II_sc_211.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000121_1_Blastocystis_Nand_II_sc_212
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000121_1_Blastocystis_Nand_II_sc_212.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000126_1_Blastocystis_Nand_II_sc_217
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000126_1_Blastocystis_Nand_II_sc_217.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000129_1_Blastocystis_Nand_II_sc_22
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_48 of family Unknown; length 339; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000129_1_Blastocystis_Nand_II_sc_22.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000130_1_Blastocystis_Nand_II_sc_221
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000130_1_Blastocystis_Nand_II_sc_221.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000134_1_Blastocystis_Nand_II_sc_225
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000134_1_Blastocystis_Nand_II_sc_225.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000138_1_Blastocystis_Nand_II_sc_229
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000138_1_Blastocystis_Nand_II_sc_229.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000139_1_Blastocystis_Nand_II_sc_23
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_53 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000139_1_Blastocystis_Nand_II_sc_23.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000143_1_Blastocystis_Nand_II_sc_234
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000143_1_Blastocystis_Nand_II_sc_234.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000147_1_Blastocystis_Nand_II_sc_238
+Assembling element ET_4 of family LINE/L1; length 2098; there are 3 fragments
+3 fragments were assembled into 2 copie(s)
+Assembling element ET_16 of family LINE/R1; length 1608; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_8 of family LINE/RTE; length 924; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+4 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000147_1_Blastocystis_Nand_II_sc_238.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000153_1_Blastocystis_Nand_II_sc_243
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000153_1_Blastocystis_Nand_II_sc_243.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000156_1_Blastocystis_Nand_II_sc_246
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000156_1_Blastocystis_Nand_II_sc_246.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000159_1_Blastocystis_Nand_II_sc_25
+Assembling element ET_49 of family Unknown; length 429; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000159_1_Blastocystis_Nand_II_sc_25.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000165_1_Blastocystis_Nand_II_sc_256
+Assembling element ET_1 of family DNA/Tc1; length 1480; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000165_1_Blastocystis_Nand_II_sc_256.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000168_1_Blastocystis_Nand_II_sc_26
+Assembling element ET_48 of family Unknown; length 339; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000168_1_Blastocystis_Nand_II_sc_26.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000170_1_Blastocystis_Nand_II_sc_263
+Assembling element ET_1 of family DNA/Tc1; length 1480; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000170_1_Blastocystis_Nand_II_sc_263.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000174_1_Blastocystis_Nand_II_sc_27
+Assembling element ET_24 of family DNA/TC1; length 579; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_17 of family DNA/Tc1; length 318; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_8 of family LINE/RTE; length 924; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000174_1_Blastocystis_Nand_II_sc_27.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000177_1_Blastocystis_Nand_II_sc_272
+Assembling element ET_24 of family DNA/TC1; length 579; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000177_1_Blastocystis_Nand_II_sc_272.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000179_1_Blastocystis_Nand_II_sc_275
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000179_1_Blastocystis_Nand_II_sc_275.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000180_1_Blastocystis_Nand_II_sc_276
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000180_1_Blastocystis_Nand_II_sc_276.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000181_1_Blastocystis_Nand_II_sc_278
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000181_1_Blastocystis_Nand_II_sc_278.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000184_1_Blastocystis_Nand_II_sc_280
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_17 of family DNA/Tc1; length 318; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_16 of family LINE/R1; length 1608; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_8 of family LINE/RTE; length 924; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+4 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000184_1_Blastocystis_Nand_II_sc_280.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000187_1_Blastocystis_Nand_II_sc_284
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000187_1_Blastocystis_Nand_II_sc_284.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000190_1_Blastocystis_Nand_II_sc_289
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000190_1_Blastocystis_Nand_II_sc_289.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000194_1_Blastocystis_Nand_II_sc_292
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000194_1_Blastocystis_Nand_II_sc_292.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000199_1_Blastocystis_Nand_II_sc_297
+Assembling element ET_44 of family DNA/TC1; length 108; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000199_1_Blastocystis_Nand_II_sc_297.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000202_1_Blastocystis_Nand_II_sc_30
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000202_1_Blastocystis_Nand_II_sc_30.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000204_1_Blastocystis_Nand_II_sc_301
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000204_1_Blastocystis_Nand_II_sc_301.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000210_1_Blastocystis_Nand_II_sc_31
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_21 of family LINE/R1; length 120; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+
+###############################
+7 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000210_1_Blastocystis_Nand_II_sc_31.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000216_1_Blastocystis_Nand_II_sc_316
+Assembling element ET_4 of family LINE/L1; length 2098; there are 4 fragments
+4 fragments were assembled into 2 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000216_1_Blastocystis_Nand_II_sc_316.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000221_1_Blastocystis_Nand_II_sc_321
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000221_1_Blastocystis_Nand_II_sc_321.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000223_1_Blastocystis_Nand_II_sc_324
+Assembling element ET_8 of family LINE/RTE; length 924; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000223_1_Blastocystis_Nand_II_sc_324.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000224_1_Blastocystis_Nand_II_sc_326
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000224_1_Blastocystis_Nand_II_sc_326.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000226_1_Blastocystis_Nand_II_sc_328
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000226_1_Blastocystis_Nand_II_sc_328.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000227_1_Blastocystis_Nand_II_sc_329
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000227_1_Blastocystis_Nand_II_sc_329.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000228_1_Blastocystis_Nand_II_sc_33
+Assembling element ET_30 of family DNA/Helitron; length 396; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_36 of family DNA/Helitron; length 168; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_42 of family DNA/Helitron_1; length 600; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000228_1_Blastocystis_Nand_II_sc_33.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000238_1_Blastocystis_Nand_II_sc_34
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 4 fragments
+4 fragments were assembled into 4 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_26 of family LINE/R1; length 542; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 4 fragments
+4 fragments were assembled into 4 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+10 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000238_1_Blastocystis_Nand_II_sc_34.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 3 such elements
+
+###############################
+0 complete LTR elements found
+3 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000243_1_Blastocystis_Nand_II_sc_348
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000243_1_Blastocystis_Nand_II_sc_348.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000244_1_Blastocystis_Nand_II_sc_349
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000244_1_Blastocystis_Nand_II_sc_349.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000246_1_Blastocystis_Nand_II_sc_350
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000246_1_Blastocystis_Nand_II_sc_350.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000250_1_Blastocystis_Nand_II_sc_354
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000250_1_Blastocystis_Nand_II_sc_354.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000254_1_Blastocystis_Nand_II_sc_359
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_10 of family LINE/RTE; length 1494; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_12 of family LINE/RTE; length 1764; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000254_1_Blastocystis_Nand_II_sc_359.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000255_1_Blastocystis_Nand_II_sc_36
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000255_1_Blastocystis_Nand_II_sc_36.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000261_1_Blastocystis_Nand_II_sc_366
+Assembling element ET_9 of family LTR/Gypsy; length 2079; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000261_1_Blastocystis_Nand_II_sc_366.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_9 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000265_1_Blastocystis_Nand_II_sc_370
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000265_1_Blastocystis_Nand_II_sc_370.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000267_1_Blastocystis_Nand_II_sc_374
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000267_1_Blastocystis_Nand_II_sc_374.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000271_1_Blastocystis_Nand_II_sc_379
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_1 of family DNA/Tc1; length 1480; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000271_1_Blastocystis_Nand_II_sc_379.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000274_1_Blastocystis_Nand_II_sc_381
+Assembling element ET_10 of family LINE/RTE; length 1494; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000274_1_Blastocystis_Nand_II_sc_381.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000279_1_Blastocystis_Nand_II_sc_388
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000279_1_Blastocystis_Nand_II_sc_388.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000280_1_Blastocystis_Nand_II_sc_389
+Assembling element ET_1 of family DNA/Tc1; length 1480; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000280_1_Blastocystis_Nand_II_sc_389.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000283_1_Blastocystis_Nand_II_sc_394
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000283_1_Blastocystis_Nand_II_sc_394.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000286_1_Blastocystis_Nand_II_sc_398
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000286_1_Blastocystis_Nand_II_sc_398.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000288_1_Blastocystis_Nand_II_sc_4
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_38 of family LTR/Gypsy; length 135; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000288_1_Blastocystis_Nand_II_sc_4.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_38 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000289_1_Blastocystis_Nand_II_sc_40
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000289_1_Blastocystis_Nand_II_sc_40.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000294_1_Blastocystis_Nand_II_sc_406
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_10 of family LINE/RTE; length 1494; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000294_1_Blastocystis_Nand_II_sc_406.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000297_1_Blastocystis_Nand_II_sc_41
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000297_1_Blastocystis_Nand_II_sc_41.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000298_1_Blastocystis_Nand_II_sc_411
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000298_1_Blastocystis_Nand_II_sc_411.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000302_1_Blastocystis_Nand_II_sc_416
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000302_1_Blastocystis_Nand_II_sc_416.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000305_1_Blastocystis_Nand_II_sc_42
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000305_1_Blastocystis_Nand_II_sc_42.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000312_1_Blastocystis_Nand_II_sc_43
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_21 of family LINE/R1; length 120; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 4 fragments
+4 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000312_1_Blastocystis_Nand_II_sc_43.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000313_1_Blastocystis_Nand_II_sc_430
+Assembling element ET_24 of family DNA/TC1; length 579; there are 3 fragments
+3 fragments were assembled into 2 copie(s)
+Assembling element ET_17 of family DNA/Tc1; length 318; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+3 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000313_1_Blastocystis_Nand_II_sc_430.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000315_1_Blastocystis_Nand_II_sc_434
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000315_1_Blastocystis_Nand_II_sc_434.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000320_1_Blastocystis_Nand_II_sc_44
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_11 of family LTR/Gypsy; length 180; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_48 of family Unknown; length 339; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000320_1_Blastocystis_Nand_II_sc_44.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_11 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000321_1_Blastocystis_Nand_II_sc_440
+Assembling element ET_12 of family LINE/RTE; length 1764; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000321_1_Blastocystis_Nand_II_sc_440.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000326_1_Blastocystis_Nand_II_sc_446
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000326_1_Blastocystis_Nand_II_sc_446.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000328_1_Blastocystis_Nand_II_sc_449
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000328_1_Blastocystis_Nand_II_sc_449.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000329_1_Blastocystis_Nand_II_sc_45
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000329_1_Blastocystis_Nand_II_sc_45.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000335_1_Blastocystis_Nand_II_sc_459
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 4 fragments
+4 fragments were assembled into 4 copie(s)
+Assembling element ET_51 of family Unknown; length 327; there are 3 fragments
+3 fragments were assembled into 3 copie(s)
+
+###############################
+7 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000335_1_Blastocystis_Nand_II_sc_459.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000336_1_Blastocystis_Nand_II_sc_46
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000336_1_Blastocystis_Nand_II_sc_46.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000339_1_Blastocystis_Nand_II_sc_462
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000339_1_Blastocystis_Nand_II_sc_462.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000346_1_Blastocystis_Nand_II_sc_47
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000346_1_Blastocystis_Nand_II_sc_47.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000350_1_Blastocystis_Nand_II_sc_473
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000350_1_Blastocystis_Nand_II_sc_473.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000353_1_Blastocystis_Nand_II_sc_477
+Assembling element ET_20 of family LINE/RTE; length 1008; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000353_1_Blastocystis_Nand_II_sc_477.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000359_1_Blastocystis_Nand_II_sc_483
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000359_1_Blastocystis_Nand_II_sc_483.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000360_1_Blastocystis_Nand_II_sc_485
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000360_1_Blastocystis_Nand_II_sc_485.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000363_1_Blastocystis_Nand_II_sc_49
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000363_1_Blastocystis_Nand_II_sc_49.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000370_1_Blastocystis_Nand_II_sc_497
+Assembling element ET_13 of family LTR/Gypsy; length 1782; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000370_1_Blastocystis_Nand_II_sc_497.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_13 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000376_1_Blastocystis_Nand_II_sc_501
+Assembling element ET_14 of family LTR/Gypsy; length 1635; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000376_1_Blastocystis_Nand_II_sc_501.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_14 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000382_1_Blastocystis_Nand_II_sc_511
+Assembling element ET_24 of family DNA/TC1; length 579; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000382_1_Blastocystis_Nand_II_sc_511.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000390_1_Blastocystis_Nand_II_sc_52
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000390_1_Blastocystis_Nand_II_sc_52.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000391_1_Blastocystis_Nand_II_sc_520
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000391_1_Blastocystis_Nand_II_sc_520.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000394_1_Blastocystis_Nand_II_sc_525
+Assembling element ET_1 of family DNA/Tc1; length 1480; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000394_1_Blastocystis_Nand_II_sc_525.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000404_1_Blastocystis_Nand_II_sc_54
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000404_1_Blastocystis_Nand_II_sc_54.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000421_1_Blastocystis_Nand_II_sc_56
+Assembling element ET_23 of family LTR/Gypsy; length 321; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 2 fragments
+2 fragments were assembled into 2 copie(s)
+Assembling element ET_48 of family Unknown; length 339; there are 3 fragments
+3 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000421_1_Blastocystis_Nand_II_sc_56.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_23 of family LTR/Gypsy -- there are 1 such elements
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 2 such elements
+
+###############################
+0 complete LTR elements found
+2 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000435_1_Blastocystis_Nand_II_sc_577
+Assembling element ET_16 of family LINE/R1; length 1608; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_39 of family LINE/RTE; length 1614; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_8 of family LINE/RTE; length 924; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000435_1_Blastocystis_Nand_II_sc_577.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000454_1_Blastocystis_Nand_II_sc_60
+Assembling element ET_24 of family DNA/TC1; length 579; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000454_1_Blastocystis_Nand_II_sc_60.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000460_1_Blastocystis_Nand_II_sc_61
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000460_1_Blastocystis_Nand_II_sc_61.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000466_1_Blastocystis_Nand_II_sc_62
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+Assembling element ET_53 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000466_1_Blastocystis_Nand_II_sc_62.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000472_1_Blastocystis_Nand_II_sc_63
+Assembling element ET_52 of family Unknown; length 291; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000472_1_Blastocystis_Nand_II_sc_63.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000479_1_Blastocystis_Nand_II_sc_64
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000479_1_Blastocystis_Nand_II_sc_64.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000494_1_Blastocystis_Nand_II_sc_66
+Assembling element ET_4 of family LINE/L1; length 2098; there are 2 fragments
+2 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000494_1_Blastocystis_Nand_II_sc_66.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000501_1_Blastocystis_Nand_II_sc_67
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000501_1_Blastocystis_Nand_II_sc_67.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000506_1_Blastocystis_Nand_II_sc_68
+Assembling element ET_30 of family DNA/Helitron; length 396; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_36 of family DNA/Helitron; length 168; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_42 of family DNA/Helitron_1; length 600; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000506_1_Blastocystis_Nand_II_sc_68.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000508_1_Blastocystis_Nand_II_sc_69
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000508_1_Blastocystis_Nand_II_sc_69.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000511_1_Blastocystis_Nand_II_sc_7
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000511_1_Blastocystis_Nand_II_sc_7.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000514_1_Blastocystis_Nand_II_sc_71
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000514_1_Blastocystis_Nand_II_sc_71.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000520_1_Blastocystis_Nand_II_sc_72
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000520_1_Blastocystis_Nand_II_sc_72.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000534_1_Blastocystis_Nand_II_sc_76
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+Assembling element ET_2 of family LINE/R1; length 2292; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+2 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000534_1_Blastocystis_Nand_II_sc_76.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000543_1_Blastocystis_Nand_II_sc_8
+Assembling element ET_22 of family DNA/Transposase; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000543_1_Blastocystis_Nand_II_sc_8.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000544_1_Blastocystis_Nand_II_sc_80
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000544_1_Blastocystis_Nand_II_sc_80.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000554_1_Blastocystis_Nand_II_sc_83
+Assembling element ET_18 of family DNA/Ginger; length 459; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000554_1_Blastocystis_Nand_II_sc_83.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000558_1_Blastocystis_Nand_II_sc_85
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000558_1_Blastocystis_Nand_II_sc_85.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+1 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000563_1_Blastocystis_Nand_II_sc_89
+Assembling element ET_17 of family DNA/Tc1; length 318; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_52 of family Unknown; length 291; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000563_1_Blastocystis_Nand_II_sc_89.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000566_1_Blastocystis_Nand_II_sc_9
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000566_1_Blastocystis_Nand_II_sc_9.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000567_1_Blastocystis_Nand_II_sc_90
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 2 fragments
+2 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000567_1_Blastocystis_Nand_II_sc_90.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000571_1_Blastocystis_Nand_II_sc_92
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000571_1_Blastocystis_Nand_II_sc_92.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000573_1_Blastocystis_Nand_II_sc_93
+Assembling element ET_26 of family LINE/R1; length 542; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000573_1_Blastocystis_Nand_II_sc_93.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000575_1_Blastocystis_Nand_II_sc_94
+Assembling element ET_3 of family DNA/CACTA; length 6235; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000575_1_Blastocystis_Nand_II_sc_94.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000576_1_Blastocystis_Nand_II_sc_95
+Assembling element ET_34 of family LTR/Gypsy; length 7533; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+0 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000576_1_Blastocystis_Nand_II_sc_95.ltr.csv
+###############################
+
+Building LTR-ET with internal part ET_34 of family LTR/Gypsy -- there are 1 such elements
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000578_1_Blastocystis_Nand_II_sc_97
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000578_1_Blastocystis_Nand_II_sc_97.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################
+Starting to work on contig LXWW01000580_1_Blastocystis_Nand_II_sc_99
+Assembling element ET_25 of family DNA/hAT; length 425; there are 1 fragments
+1 fragments were assembled into 1 copie(s)
+Assembling element ET_4 of family LINE/L1; length 2098; there are 1 fragments
+1 fragments were assembled into 0 copie(s)
+
+###############################
+1 copies of non-LTR elements were found
+###############################
+
+###############################
+Finding complete LTR elements
+Results written in file ST1_Nand.out_LXWW01000580_1_Blastocystis_Nand_II_sc_99.ltr.csv
+###############################
+
+
+###############################
+0 complete LTR elements found
+0 partial LTR elements found
+0 solo LTR elements found
+###############################

@@ -1,0 +1,7 @@
+Score	%_Div	%_Del	%_Ins	Query	Beg.	End.	Length	Sense	Element	Family	Pos_Repeat_Beg	Pos_Repeat_End	Pos_Repeat_Left	ID	Num_Assembled	%_of_Ref
+
+###1809/2513	9.083	0.000	0.000	LXWW01000017_1_Blastocystis_Nand_II_sc_114	43176	44370	616	+	ET_1	DNA/Tc1	191	1227	(253)	337/338	2	0.416
+1809	10.1	0.0	0.0	LXWW01000017_1_Blastocystis_Nand_II_sc_114	43176	43443	268	+	ET_1	DNA/Tc1	191	458	(1022)	337	1
+2513	8.3	0.0	0.0	LXWW01000017_1_Blastocystis_Nand_II_sc_114	44023	44370	348	+	ET_1	DNA/Tc1	880	1227	(253)	338	1
+
+###680	10.9	0.0	1.8	LXWW01000017_1_Blastocystis_Nand_II_sc_114	60607	60718	110	C	ET_34	LTR/Gypsy	(1529)	6004	5895	343	1	No_ref_available
