@@ -1,0 +1,20 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/hAT	ET_25	425	1	1	NA	416	1.77
+###DNA/hAT	All_elements	NA	1	1	NA	416	1.7719
+
+######Type:DNA	All_elements	NA	1	1	NA	416	1.7719
+
+######Type:LINE	All_elements	NA			NA		0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+######Type:LTR	All_elements	NA			0		0.0000
+
+######Type:Unknown	All_elements	NA			NA		0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	1	1	NA	416	1.7719
+
+######Type:Low_complexity	All_elements	NA	NA	1	NA	33	0.1406
+
+######Type:Simple_repeat	All_elements	NA	NA	1	NA	46	0.1959
+

@@ -1,0 +1,18 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/CACTA	ET_3	6235	1	1	NA	88	1.01
+###DNA/CACTA	All_elements	NA	1	1	NA	88	1.0132
+
+######Type:DNA	All_elements	NA	1	1	NA	88	1.0132
+
+######Type:LINE	All_elements	NA			NA		0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+######Type:LTR	All_elements	NA			0		0.0000
+
+######Type:Unknown	All_elements	NA			NA		0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	1	1	NA	88	1.0132
+
+######Type:Simple_repeat	All_elements	NA	NA	2	NA	131	1.5083
+
