@@ -1,0 +1,23 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/TC1	ET_24	579	2	1	NA	142	0.16
+###DNA/TC1	All_elements	NA	2	1	NA	142	0.1579
+
+######Type:DNA	All_elements	NA	2	1	NA	142	0.1579
+
+######Type:LINE	All_elements	NA			NA		0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+LTR/Gypsy	ET_34	No_ref_available	1	1	0	106	0.12
+###LTR/Gypsy	All_elements	NA	1	1	0	106	0.1178
+
+######Type:LTR	All_elements	NA	1	1	0	106	0.1178
+
+######Type:Unknown	All_elements	NA			NA		0.0000
+
+#########Type:EVERYTHING_TE	All_elements	NA	3	2	NA	248	0.2757
+
+######Type:Low_complexity	All_elements	NA	NA	1	NA	101	0.1123
+
+######Type:Simple_repeat	All_elements	NA	NA	24	NA	1236	1.3741
+

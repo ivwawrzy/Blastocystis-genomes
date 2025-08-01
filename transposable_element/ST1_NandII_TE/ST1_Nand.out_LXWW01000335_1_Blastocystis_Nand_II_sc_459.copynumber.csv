@@ -1,0 +1,23 @@
+Family	Element	Length	Fragments	Copies	Solo_LTR	Total_Bp	Cover
+DNA/Transposase	ET_22	318	4	4	NA	907	33.74
+###DNA/Transposase	All_elements	NA	4	4	NA	907	33.7426
+
+######Type:DNA	All_elements	NA	4	4	NA	907	33.7426
+
+######Type:LINE	All_elements	NA			NA		0.0000
+
+######Type:SINE	All_elements	NA			NA		0.0000
+
+######Type:LTR	All_elements	NA			0		0.0000
+
+Unknown	ET_51	327	3	3	NA	524	19.49
+###Unknown	All_elements	NA	3	3	NA	524	19.4940
+
+######Type:Unknown	All_elements	NA	3	3	NA	524	19.4940
+
+#########Type:EVERYTHING_TE	All_elements	NA	7	7	NA	1431	53.2366
+
+######Type:Low_complexity	All_elements	NA	NA	2	NA	66	2.4554
+
+######Type:Simple_repeat	All_elements	NA	NA	2	NA	70	2.6042
+
