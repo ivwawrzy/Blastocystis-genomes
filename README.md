@@ -1,5 +1,5 @@
 # Blastocystis- subtypes 1 and 8 genomics project
 
-In this project we sequenced and annotated a Blastocystis subtype 1 and 8. (Wawrzyniak et al,. ...)
+In this project we sequenced and annotated a Blastocystis subtype 1 and 8 (Wawrzyniak et al. New draft genomes assemblies of Blastocystis isolates from subtypes 1 and 8 confirm conserved synteny, transposable element diversity, and provide insights into pathogenic potential, Protist. 2026 Mar 20:181:126157.doi: 10.1016/j.protis.2026.126157)
 
 You will find the Genbank repository containing the gbf files, and in the transposable_element repository, the results of the analysis performed with the script One code to find them all (https://doua.prabi.fr/software/one-code-to-find-them-all), as well as  the set of transposable element use for identify the TEs.
